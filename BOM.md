@@ -1,6 +1,6 @@
 # Harbor Freight MeshCore Repeater — Bill of Materials
 
-One solar MeshCore repeater built around a Seeed Studio XIAO nRF52840 and Wio-SX1262, housed in a Harbor Freight solar security light.
+One solar MeshCore repeater built around a Seeed Studio XIAO nRF52840 and Wio-SX1262, housed in a Harbor Freight solar security light. Assembly steps are in [BUILD.md](BUILD.md).
 
 Prices were taken from the product pages on 18 November 2026. They exclude tax and shipping, and store prices change.
 
