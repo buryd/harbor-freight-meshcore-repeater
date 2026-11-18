@@ -2,6 +2,14 @@
 
 Build the repeater on the bench, then move the working radio into the solar light. Parts are listed in [BOM.md](BOM.md).
 
+## Video
+
+Ham Radio Crusader (Freddy Mack) builds this repeater, with this parts list, in **Let's Build a Meshcore Repeater**.
+
+[![Let's Build a Meshcore Repeater — Ham Radio Crusader](https://img.youtube.com/vi/Fqu7j6yl4KA/hqdefault.jpg)](https://www.youtube.com/watch?v=Fqu7j6yl4KA)
+
+[Watch on YouTube](https://www.youtube.com/watch?v=Fqu7j6yl4KA)
+
 The Seeed kit arrives with Meshtastic installed. This repeater runs MeshCore repeater firmware. Power comes from the light’s 3.7 V, 1200 mAh cell. The 915 MHz whip mounts outside the case.
 
 ## Tools
